@@ -1,0 +1,25 @@
+#MyTitle {
+	text-align:center; 
+	color:yellow; 
+	font-family:courier
+}
+
+.Header {
+	text-align:center;
+	color:Gold;
+	font-family:courier;
+}
+
+.Paragraph {
+	color:White;
+	font-family:courier;
+}
+
+#NextEraEnergy {
+width="600";
+height="450";
+style="border:0;";
+allowfullscreen=""; 
+loading="lazy"; 
+referrerpolicy="no-referrer-when-downgrade";
+}
